@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner/banner.svg" width="100%" alt="Banner"/>
+</p>
+
 # Hi 👋 I'm Patrick Shehata
 
 ### Backend Engineer
