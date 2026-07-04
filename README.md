@@ -1,47 +1,49 @@
 # Hi 👋 I'm Patrick Shehata
 
-**Backend Engineer**
+### Backend Engineer
 
 > Building scalable software systems.
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-Coming soon...
+I'm Patrick Shehata, a Computer Science graduate from AASTMT, where I graduated **3rd in my class** with a **GPA of 3.58**.
 
----
+I'm passionate about backend engineering and enjoy building reliable, scalable software systems. I particularly enjoy solving complex problems and understanding how systems work under the hood.
 
-## Engineering Philosophy
+I'm currently exploring:
 
-Coming soon...
-
----
-
-## Technologies I Work With
-
-Coming soon...
+- Distributed Systems
+- System Design
+- Software Architecture
+- Design Patterns
 
 ---
 
-## Featured Projects
+## 🛠️ Technologies I Work With
 
-Coming soon...
-
----
-
-## Current Focus
-
-Coming soon...
+> Coming soon...
 
 ---
 
-## GitHub Stats
+## 🚀 Featured Projects
 
-Coming soon...
+> Coming soon...
 
 ---
 
-## Contact
+## 📚 Current Focus
 
-Coming soon...
+Currently learning and building projects around:
+
+- Distributed Systems
+- Backend Engineering
+- Software Architecture
+
+---
+
+## 📫 Connect
+
+- LinkedIn *(coming soon)*
+- Email *(coming soon)*
