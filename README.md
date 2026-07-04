@@ -51,17 +51,30 @@ Git • Linux • Postman
 
 ### 🏥 Laboratory Quality Management System
 
+<a href="https://github.com/garma-a/QC_project">
+  <img src="./assets/projects/QC.png" width="700"/>
+</a>
+
 Backend platform developed for the **Magdi Yacoub Heart Foundation** to centralize laboratory quality control data, preserve historical records, and streamline laboratory quality assurance workflows with real-time updates and secure authentication.
+
 
 ---
 
 ### ☁️ Cloud-Native E-Commerce Platform
+
+<a href="https://github.com/rekozzz/E-Commerce">
+  <img src="./assets/projects/E-commerce.png" width="700"/>
+</a>
 
 A containerized e-commerce platform deployed on AWS featuring AI-powered semantic product search, cloud-native deployment, and modern backend architecture.
 
 ---
 
 ### ⚡ VoltGuard — IoT Smart Energy Monitoring System
+
+<a href="https://github.com/rekozzz/Smart-Energy-Monitoring-Abuse-Detection-System">
+  <img src="./assets/projects/smart.png" width="700"/>
+</a>
 
 A real-time energy monitoring platform that integrates embedded systems with a web dashboard to detect excessive power consumption, stream live telemetry, and visualize device analytics.
 
