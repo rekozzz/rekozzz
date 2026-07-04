@@ -159,15 +159,7 @@ C++ • OpenGL • GLUT
 
 ---
 
-# 📈 GitHub Statistics
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rekozzz&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400"/>
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rekozzz&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"/>
-</p>
-
----
 
 # 🔥 Contribution Streak
 
