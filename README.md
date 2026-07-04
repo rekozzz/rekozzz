@@ -152,7 +152,7 @@ C • AVR • Node.js • React • Socket.IO • TypeScript
 ## 🎮 Invasion Rush
 
 <a href="https://github.com/rekozzz/Invasion-Rush">
-<img src="./assets/projects/invasion-rush.gif" width="100%">
+<video src="assets/projects/invasion-rush.mp4" autoplay loop muted playsinline width="100%"></video>
 </a>
 
 A Modern OpenGL shooting game featuring custom rendering, collision detection, enemy AI, particle effects, animations, and gameplay mechanics.
@@ -184,11 +184,11 @@ C++ • OpenGL • GLUT
 # 📫 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/patrick-shehata-223460310/" target="_blank">
+  <a href="https://www.linkedin.com/in/patrick-shehata-223460310/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:rekoshehata@gmail.com" target="_blank">
+  <a href="mailto:rekoshehata@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
