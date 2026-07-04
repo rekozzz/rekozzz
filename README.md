@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/terminal/terminal.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="assets/terminal/terminal.svg?v=2">
-    <img src="assets/terminal/terminal.svg?v=2" width="90%" alt="Animated Terminal">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/terminal/terminal.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="assets/terminal/terminal.svg?v=3">
+    <img src="assets/terminal/terminal.svg?v=3" width="90%" alt="Animated Terminal">
   </picture>
 </p>
 
