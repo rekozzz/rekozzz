@@ -151,9 +151,9 @@ C • AVR • Node.js • React • Socket.IO • TypeScript
 
 ## 🎮 Invasion Rush
 
-<a href="https://github.com/rekozzz/Invasion-Rush">
-<video src="https://github.com/rekozzz/rekozzz/raw/main/assets/projects/invasion-rush.mp4" autoplay loop muted playsinline width="100%"></video>
-</a>
+<a href="https://github.com/rekozzz/Invasion-Rush">**Link to Invasion Rush Repository**</a>
+
+*(Drag and drop your invasion-rush.mp4 video file here in the GitHub Web Editor!)*
 
 A Modern OpenGL shooting game featuring custom rendering, collision detection, enemy AI, particle effects, animations, and gameplay mechanics.
 
