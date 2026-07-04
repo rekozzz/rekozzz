@@ -1,12 +1,16 @@
 <p align="center">
-  <img src="assets/banner/banner.svg" width="100%" alt="Banner"/>
+  <img src="assets/banner/banner.svg" width="100%" alt="Patrick Shehata Banner"/>
 </p>
 
-# Hi 👋 I'm Patrick Shehata
+<p align="center">
+  <img src="assets/terminal/terminal.svg" width="85%" alt="Animated Terminal"/>
+</p>
 
-### Backend Engineer
+<h1 align="center">Patrick Shehata</h1>
 
-> **Building scalable software systems.**
+<p align="center">
+Backend Engineer • Distributed Systems Enthusiast • Building Production-Ready Software
+</p>
 
 ---
 
@@ -16,90 +20,138 @@ I'm Patrick Shehata, a Computer Science graduate from the **Arab Academy for Sci
 
 I'm passionate about backend engineering and enjoy building reliable, scalable software systems. I enjoy solving complex engineering problems and understanding how systems work under the hood.
 
-I'm currently expanding my knowledge in:
+I'm currently studying and building projects around:
 
-* Distributed Systems
-* System Design
-* Software Architecture
-* Design Patterns
-
----
-
-## 🛠️ Core Technologies
-
-**Languages**
-TypeScript • JavaScript • C++ • Java • Python • C
-
-**Backend**
-Node.js • NestJS • Express.js
-
-**Database**
-PostgreSQL
-
-**ORM**
-Drizzle ORM
-
-**Cloud & DevOps**
-Docker • AWS
-
-**Tools**
-Git • Linux • Postman
+- Distributed Systems
+- Software Architecture
+- System Design
+- Design Patterns
+- Cloud-Native Applications
 
 ---
 
-## 🚀 Featured Projects
+# 🛠️ Tech Stack
 
-### 🏥 Laboratory Quality Management System
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,postgres,docker,aws,git,linux,java,cpp,python,express" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🏥 Laboratory Quality Management System
 
 <a href="https://github.com/garma-a/QC_project">
-  <img src="./assets/projects/QC.png" width="700"/>
+<img src="./assets/projects/QC.png" width="100%">
 </a>
 
-Backend platform developed for the **Magdi Yacoub Heart Foundation** to centralize laboratory quality control data, preserve historical records, and streamline laboratory quality assurance workflows with real-time updates and secure authentication.
+Backend platform developed for the **Magdi Yacoub Heart Foundation** to centralize laboratory quality control data, preserve historical records, provide real-time laboratory monitoring, and streamline quality assurance workflows.
 
+**Highlights**
+
+- Secure authentication with OTP verification
+- Refresh Token Authentication
+- Redis caching
+- Server-Sent Events (SSE)
+- BFF Pattern
+- Swagger API Documentation
+- PostgreSQL + Drizzle ORM
+- Dockerized deployment
 
 ---
 
-### ☁️ Cloud-Native E-Commerce Platform
+## ☁️ Cloud-Native E-Commerce Platform
 
 <a href="https://github.com/rekozzz/E-Commerce">
-  <img src="./assets/projects/E-commerce.png" width="700"/>
+<img src="./assets/projects/E-commerce.png" width="100%">
 </a>
 
-A containerized e-commerce platform deployed on AWS featuring AI-powered semantic product search, cloud-native deployment, and modern backend architecture.
+A cloud-native e-commerce platform deployed on AWS featuring semantic product search powered by AI embeddings.
+
+**Highlights**
+
+- Docker
+- Amazon ECS
+- Amazon ECR
+- Amazon EC2
+- Amazon RDS
+- pgvector
+- AI Semantic Search
+- PostgreSQL
 
 ---
 
-### ⚡ VoltGuard — IoT Smart Energy Monitoring System
+## ⚡ VoltGuard — IoT Smart Energy Monitoring System
 
 <a href="https://github.com/rekozzz/Smart-Energy-Monitoring-Abuse-Detection-System">
-  <img src="./assets/projects/smart.png" width="700"/>
+<img src="./assets/projects/smart.png" width="100%">
 </a>
 
-A real-time energy monitoring platform that integrates embedded systems with a web dashboard to detect excessive power consumption, stream live telemetry, and visualize device analytics.
+An IoT monitoring platform that integrates AVR microcontrollers, UART communication, Node.js, Socket.IO, and React to monitor household electrical consumption in real time.
+
+**Highlights**
+
+- AVR Programming
+- Proteus Simulation
+- UART Communication
+- Node.js Backend
+- Socket.IO
+- React Dashboard
+- Live Analytics
+- Real-Time Monitoring
 
 ---
 
-### 🎮 OpenGL 3D Shooter
+## 🎮 Invasion Rush
 
-A personal graphics programming project built in Modern OpenGL featuring custom rendering, collision detection, animations, and gameplay mechanics.
+<a href="https://github.com/rekozzz/Invasion-Rush">
+<img src="./assets/projects/invasion-rush.gif" width="100%">
+</a>
 
----
-
-## 📚 Current Focus
-
-I'm currently building projects and studying:
-
-* Distributed Systems
-* System Design
-* Software Architecture
-* Backend Engineering
-
-My goal is to become a software engineer who designs scalable, reliable, and maintainable systems.
+A Modern OpenGL shooting game featuring custom rendering, collision detection, enemy AI, animation, particle effects, and gameplay mechanics.
 
 ---
 
-## 📫 Connect
+# 📈 GitHub Statistics
 
-* LinkedIn *(Coming Soon)*
-* Email *(Coming Soon)*
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rekozzz&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rekozzz&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=rekozzz&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+---
+
+# 📊 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rekozzz&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+# 📫 Connect
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">
+LinkedIn
+</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="mailto:YOUR_EMAIL">
+Email
+</a>
+
+</p>
