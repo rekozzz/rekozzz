@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/terminal/terminal.svg?v=3">
-    <source media="(prefers-color-scheme: light)" srcset="assets/terminal/terminal.svg?v=3">
-    <img src="assets/terminal/terminal.svg?v=3" width="90%" alt="Animated Terminal">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/terminal/terminal.svg?v=4">
+    <source media="(prefers-color-scheme: light)" srcset="assets/terminal/terminal.svg?v=4">
+    <img src="assets/terminal/terminal.svg?v=4" width="90%" alt="Animated Terminal">
   </picture>
 </p>
 
@@ -184,11 +184,11 @@ C++ • OpenGL • GLUT
 # 📫 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/patrick-shehata-223460310/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:rekoshehata@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>

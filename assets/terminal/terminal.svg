@@ -1,31 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="380" viewBox="0 0 800 380" font-family="Consolas, 'Courier New', monospace" font-size="14">
   <defs>
-    <!-- Typing clip paths for outputs (answers) instead of commands -->
-    <clipPath id="o1">
-      <rect x="20" y="80" width="0" height="20">
-        <animate attributeName="width" values="0; 0; 140; 140; 0" keyTimes="0; 0.04; 0.12; 0.95; 1" dur="12s" repeatCount="indefinite" />
-      </rect>
-    </clipPath>
-    <clipPath id="o2">
-      <rect x="20" y="136" width="0" height="20">
-        <animate attributeName="width" values="0; 0; 230; 230; 0" keyTimes="0; 0.20; 0.29; 0.95; 1" dur="12s" repeatCount="indefinite" />
-      </rect>
-    </clipPath>
-    <clipPath id="o3">
-      <rect x="20" y="192" width="0" height="70">
-        <animate attributeName="width" values="0; 0; 200; 200; 0" keyTimes="0; 0.37; 0.45; 0.95; 1" dur="12s" repeatCount="indefinite" />
-      </rect>
-    </clipPath>
-    <clipPath id="o4">
-      <rect x="20" y="288" width="0" height="20">
-        <animate attributeName="width" values="0; 0; 480; 480; 0" keyTimes="0; 0.54; 0.62; 0.95; 1" dur="12s" repeatCount="indefinite" />
-      </rect>
-    </clipPath>
-    <clipPath id="o5">
-      <rect x="20" y="344" width="0" height="20">
-        <animate attributeName="width" values="0; 0; 250; 250; 0" keyTimes="0; 0.70; 0.79; 0.95; 1" dur="12s" repeatCount="indefinite" />
-      </rect>
-    </clipPath>
+    <!-- Command Clip Paths -->
+    <clipPath id="c1"><rect x="180" y="50" width="0" height="25"><animate attributeName="width" values="0; 0; 60; 60; 0" keyTimes="0; 0.031; 0.062; 0.968; 1" dur="16s" repeatCount="indefinite" /></rect></clipPath>
+    <clipPath id="c2"><rect x="180" y="106" width="0" height="25"><animate attributeName="width" values="0; 0; 40; 40; 0" keyTimes="0; 0.187; 0.218; 0.968; 1" dur="16s" repeatCount="indefinite" /></rect></clipPath>
+    <clipPath id="c3"><rect x="180" y="162" width="0" height="25"><animate attributeName="width" values="0; 0; 80; 80; 0" keyTimes="0; 0.375; 0.406; 0.968; 1" dur="16s" repeatCount="indefinite" /></rect></clipPath>
+    <clipPath id="c4"><rect x="180" y="258" width="0" height="25"><animate attributeName="width" values="0; 0; 80; 80; 0" keyTimes="0; 0.562; 0.593; 0.968; 1" dur="16s" repeatCount="indefinite" /></rect></clipPath>
+    <clipPath id="c5"><rect x="180" y="314" width="0" height="25"><animate attributeName="width" values="0; 0; 60; 60; 0" keyTimes="0; 0.750; 0.781; 0.968; 1" dur="16s" repeatCount="indefinite" /></rect></clipPath>
+
+    <!-- Output Clip Paths -->
+    <clipPath id="o1"><rect x="20" y="80" width="0" height="20"><animate attributeName="width" values="0; 0; 140; 140; 0" keyTimes="0; 0.075; 0.106; 0.968; 1" dur="16s" repeatCount="indefinite" /></rect></clipPath>
+    <clipPath id="o2"><rect x="20" y="136" width="0" height="20"><animate attributeName="width" values="0; 0; 230; 230; 0" keyTimes="0; 0.231; 0.293; 0.968; 1" dur="16s" repeatCount="indefinite" /></rect></clipPath>
+    <clipPath id="o3"><rect x="20" y="192" width="0" height="70"><animate attributeName="width" values="0; 0; 200; 200; 0" keyTimes="0; 0.418; 0.481; 0.968; 1" dur="16s" repeatCount="indefinite" /></rect></clipPath>
+    <clipPath id="o4"><rect x="20" y="288" width="0" height="20"><animate attributeName="width" values="0; 0; 480; 480; 0" keyTimes="0; 0.606; 0.668; 0.968; 1" dur="16s" repeatCount="indefinite" /></rect></clipPath>
+    <clipPath id="o5"><rect x="20" y="344" width="0" height="20"><animate attributeName="width" values="0; 0; 250; 250; 0" keyTimes="0; 0.793; 0.856; 0.968; 1" dur="16s" repeatCount="indefinite" /></rect></clipPath>
   </defs>
 
   <!-- Window Frame -->
@@ -42,10 +29,12 @@
   <g font-size="14">
     <!-- Block 1 -->
     <g opacity="0">
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.95;1" dur="12s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;1;1;0" keyTimes="0;0.01;0.968;1" dur="16s" repeatCount="indefinite" />
       <text x="20" y="70" fill="#58a6ff">patrick@rekozzz</text>
       <text x="145" y="70" fill="#e6edf3">:~$</text>
-      <text x="180" y="70" fill="#f0f6fc">whoami</text>
+      <g clip-path="url(#c1)">
+        <text x="180" y="70" fill="#f0f6fc">whoami</text>
+      </g>
     </g>
     <g clip-path="url(#o1)">
       <text x="20" y="94" fill="#8b949e">Patrick Shehata</text>
@@ -53,10 +42,12 @@
 
     <!-- Block 2 -->
     <g opacity="0">
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.16;0.95;1" dur="12s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.156;0.968;1" dur="16s" repeatCount="indefinite" />
       <text x="20" y="126" fill="#58a6ff">patrick@rekozzz</text>
       <text x="145" y="126" fill="#e6edf3">:~$</text>
-      <text x="180" y="126" fill="#f0f6fc">role</text>
+      <g clip-path="url(#c2)">
+        <text x="180" y="126" fill="#f0f6fc">role</text>
+      </g>
     </g>
     <g clip-path="url(#o2)">
       <text x="20" y="150" fill="#8b949e">Backend Software Engineer</text>
@@ -64,10 +55,12 @@
 
     <!-- Block 3 -->
     <g opacity="0">
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.33;0.95;1" dur="12s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.343;0.968;1" dur="16s" repeatCount="indefinite" />
       <text x="20" y="182" fill="#58a6ff">patrick@rekozzz</text>
       <text x="145" y="182" fill="#e6edf3">:~$</text>
-      <text x="180" y="182" fill="#f0f6fc">interests</text>
+      <g clip-path="url(#c3)">
+        <text x="180" y="182" fill="#f0f6fc">interests</text>
+      </g>
     </g>
     <g clip-path="url(#o3)">
       <text x="20" y="206" fill="#8b949e">Distributed Systems</text>
@@ -77,10 +70,12 @@
 
     <!-- Block 4 -->
     <g opacity="0">
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.50;0.95;1" dur="12s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.531;0.968;1" dur="16s" repeatCount="indefinite" />
       <text x="20" y="278" fill="#58a6ff">patrick@rekozzz</text>
       <text x="145" y="278" fill="#e6edf3">:~$</text>
-      <text x="180" y="278" fill="#f0f6fc">currently</text>
+      <g clip-path="url(#c4)">
+        <text x="180" y="278" fill="#f0f6fc">currently</text>
+      </g>
     </g>
     <g clip-path="url(#o4)">
       <text x="20" y="302" fill="#8b949e">Building scalable systems with NestJS and PostgreSQL...</text>
@@ -88,10 +83,12 @@
 
     <!-- Block 5 -->
     <g opacity="0">
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.66;0.95;1" dur="12s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.718;0.968;1" dur="16s" repeatCount="indefinite" />
       <text x="20" y="334" fill="#58a6ff">patrick@rekozzz</text>
       <text x="145" y="334" fill="#e6edf3">:~$</text>
-      <text x="180" y="334" fill="#f0f6fc">status</text>
+      <g clip-path="url(#c5)">
+        <text x="180" y="334" fill="#f0f6fc">status</text>
+      </g>
     </g>
     <g clip-path="url(#o5)">
       <text x="20" y="358" fill="#8b949e">Ready for the next challenge</text>
@@ -99,7 +96,7 @@
 
     <!-- Cursor at the end -->
     <g opacity="0">
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.79;0.95;1" dur="12s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.856;0.968;1" dur="16s" repeatCount="indefinite" />
       <rect x="260" y="346" width="8" height="15" fill="#f0f6fc">
         <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" calcMode="discrete"/>
       </rect>
