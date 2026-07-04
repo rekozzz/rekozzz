@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/banner/banner.svg" width="100%" alt="Patrick Shehata Banner"/>
+  <a href="#"><img src="assets/banner/banner.svg" width="100%" alt="Patrick Shehata Banner"/></a>
 </p>
 
 <p align="center">
-  <img src="assets/terminal/terminal.svg" width="85%" alt="Animated Terminal"/>
+  <a href="#"><img src="assets/terminal/terminal.svg" width="85%" alt="Animated Terminal"/></a>
 </p>
 
 <h1 align="center">Patrick Shehata</h1>
