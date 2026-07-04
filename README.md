@@ -5,7 +5,7 @@
 <h1 align="center">Patrick Shehata</h1>
 
 <p align="center">
-Backend Engineer • Distributed Systems Enthusiast • Building Production-Ready Software
+Backend Engineer &nbsp;•&nbsp; Distributed Systems Enthusiast &nbsp;•&nbsp; Building Production-Ready Software
 </p>
 
 ---
@@ -49,15 +49,13 @@ I'm currently studying and building projects around:
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express"/>
 </p>
 
-### Database
+### Database & ORM
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle ORM"/>
 </p>
-
-**ORM**
-
-- Drizzle ORM
 
 ### Cloud & DevOps
 
@@ -164,11 +162,9 @@ C++ • OpenGL • GLUT
 # 📈 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rekozzz&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rekozzz&layout=compact&theme=github_dark&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rekozzz&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400"/>
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rekozzz&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"/>
 </p>
 
 ---
@@ -176,7 +172,7 @@ C++ • OpenGL • GLUT
 # 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=rekozzz&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=rekozzz&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
@@ -184,7 +180,7 @@ C++ • OpenGL • GLUT
 # 📊 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rekozzz&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rekozzz&theme=github-dark&hide_border=true&area=true"/>
 </p>
 
 ---
@@ -192,15 +188,7 @@ C++ • OpenGL • GLUT
 # 📫 Connect
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-LinkedIn
-</a>
-
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-
-<a href="mailto:YOUR_EMAIL">
-Email
-</a>
-
+<a href="mailto:YOUR_EMAIL">Email</a>
 </p>
