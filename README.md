@@ -1,43 +1,74 @@
 <p align="center">
-  <img src="assets/banner/banner.svg" width="100%" alt="Patrick Shehata Banner"/>
-</p>
-
-<p align="center">
-  <img src="assets/terminal/terminal.svg" width="85%" alt="Animated Terminal"/>
+  <img src="assets/terminal/terminal.svg" width="90%" alt="Animated Terminal">
 </p>
 
 <h1 align="center">Patrick Shehata</h1>
 
 <p align="center">
-<b>Backend Engineer • Distributed Systems Enthusiast • Building Production-Ready Software</b>
-</p>
-
-<p align="center">
-Computer Science Graduate • 3rd in Class • GPA 3.58
+Backend Engineer • Distributed Systems Enthusiast • Building Production-Ready Software
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 I'm Patrick Shehata, a Computer Science graduate from the **Arab Academy for Science, Technology & Maritime Transport (AASTMT)**, where I graduated **3rd in my class** with a **GPA of 3.58**.
 
-I'm passionate about backend engineering and enjoy building reliable, scalable software systems. I enjoy solving challenging engineering problems and understanding how distributed systems work under the hood.
+I'm passionate about backend engineering and enjoy building reliable, scalable software systems. I enjoy solving complex engineering problems and understanding how systems work under the hood.
 
-Currently studying and building projects around:
+I'm currently studying and building projects around:
 
 - Distributed Systems
-- System Design
 - Software Architecture
+- System Design
 - Design Patterns
 - Cloud-Native Applications
 
 ---
 
-# 🛠️ Tech Stack
+## 🎯 Current Mission
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,postgres,redis,docker,aws,git,linux,java,cpp,python,c" />
+- 📚 Master Distributed Systems
+- 🏗️ Build production-grade backend applications
+- 🌍 Contribute to open-source projects
+- 🚀 Grow into a Software Engineer focused on scalable systems
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,cpp,c,java,python"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres"/>
+</p>
+
+**ORM**
+
+- Drizzle ORM
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,linux,postman"/>
 </p>
 
 ---
@@ -50,22 +81,22 @@ Currently studying and building projects around:
 <img src="./assets/projects/QC.png" width="100%">
 </a>
 
-Backend platform developed for the **Magdi Yacoub Heart Foundation** to centralize laboratory quality control data, preserve historical records, provide real-time laboratory monitoring, and streamline laboratory quality assurance workflows.
+Backend platform developed for the **Magdi Yacoub Heart Foundation** to centralize laboratory quality control data, preserve historical records, provide real-time laboratory monitoring, and streamline quality assurance workflows.
 
-Designed to replace fragmented machine-local storage by maintaining historical quality-control records across more than **30 laboratory machines** through a centralized platform.
+### Highlights
 
-### Key Features
+- OTP Authentication
+- JWT + Refresh Tokens
+- Redis Caching
+- Server-Sent Events (SSE)
+- Backend-for-Frontend (BFF)
+- Swagger Documentation
+- Role-based Authorization
+- Dockerized Deployment
 
-- 🔐 OTP Authentication
-- 🔄 Refresh Tokens
-- ⚡ Redis Caching
-- 📡 Server-Sent Events (SSE)
-- 🏗️ Backend-for-Frontend (BFF)
-- 📑 Swagger API Documentation
-- 🧪 Unit Testing (AAA Pattern)
-- 🐳 Docker
-- 🗄️ PostgreSQL
-- 🛠️ Drizzle ORM
+**Tech Stack**
+
+Next.js • NestJS • PostgreSQL • Drizzle ORM • Redis • Docker
 
 ---
 
@@ -75,39 +106,44 @@ Designed to replace fragmented machine-local storage by maintaining historical q
 <img src="./assets/projects/E-commerce.png" width="100%">
 </a>
 
-A cloud-native e-commerce platform deployed on AWS featuring AI-powered semantic product search using vector embeddings.
+Cloud-native e-commerce application deployed on AWS featuring AI-powered semantic product search using vector embeddings.
 
-### Key Features
+### Highlights
 
-- 🐳 Docker
-- ☁️ Amazon EC2
-- 🚢 Amazon ECS
-- 📦 Amazon ECR
-- 🗄️ Amazon RDS
-- 🤖 AI Semantic Search
-- 🔎 pgvector
-- 🐘 PostgreSQL
+- Dockerized Services
+- Semantic Product Search
+- pgvector
+- AWS Deployment
+- REST APIs
+- Authentication
+
+**Tech Stack**
+
+Node.js • PostgreSQL • Docker • AWS ECS • AWS EC2 • AWS ECR • Amazon RDS • pgvector
 
 ---
 
-## ⚡ VoltGuard — IoT Smart Energy Monitoring System
+## ⚡ VoltGuard — Smart Energy Monitoring System
 
 <a href="https://github.com/rekozzz/Smart-Energy-Monitoring-Abuse-Detection-System">
 <img src="./assets/projects/smart.png" width="100%">
 </a>
 
-A real-time IoT platform integrating embedded systems with a web dashboard to monitor electrical consumption, detect abnormal usage, and visualize live analytics.
+IoT platform combining embedded systems with a modern web dashboard to monitor household electrical consumption in real time.
 
-### Key Features
+### Highlights
 
-- ⚙️ AVR Programming
-- 🔌 UART Communication
-- 🧪 Proteus Simulation
-- 🌐 Node.js Backend
-- ⚡ Socket.IO
-- ⚛️ React Dashboard
-- 📈 Real-Time Analytics
-- 📡 Live Monitoring
+- AVR Programming
+- UART Communication
+- Proteus Simulation
+- Socket.IO
+- Live Dashboard
+- Device Analytics
+- Real-Time Monitoring
+
+**Tech Stack**
+
+C • AVR • Node.js • React • Socket.IO • TypeScript
 
 ---
 
@@ -117,29 +153,27 @@ A real-time IoT platform integrating embedded systems with a web dashboard to mo
 <img src="./assets/projects/invasion-rush.gif" width="100%">
 </a>
 
-A Modern OpenGL shooting game built from scratch featuring custom rendering, collision detection, enemy AI, animations, particle effects, and gameplay mechanics.
+A Modern OpenGL shooting game featuring custom rendering, collision detection, enemy AI, particle effects, animations, and gameplay mechanics.
 
-### Key Features
+**Tech Stack**
 
-- 🎨 Modern OpenGL
-- 💥 Collision Detection
-- 🎯 Enemy AI
-- ✨ Particle Effects
-- 🎮 Game Loop
-- 🖥️ Custom Rendering Pipeline
+C++ • OpenGL • GLUT
 
 ---
 
-# 📊 GitHub Statistics
+# 📈 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rekozzz&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rekozzz&show_icons=true&theme=github_dark&hide_border=true"/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rekozzz&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=rekozzz&theme=github-dark-blue&hide_border=true"/>
@@ -147,7 +181,7 @@ A Modern OpenGL shooting game built from scratch featuring custom rendering, col
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rekozzz&theme=github-dark&hide_border=true"/>
@@ -159,14 +193,14 @@ A Modern OpenGL shooting game built from scratch featuring custom rendering, col
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+LinkedIn
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;•&nbsp;&nbsp;
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+Email
 </a>
 
 </p>
