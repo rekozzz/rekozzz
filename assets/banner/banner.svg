@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="400" viewBox="0 0 1600 400">
+  <rect width="1600" height="400" fill="#0d1117"/>
+  <rect x="1" y="1" width="1598" height="398" fill="none" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Left content block -->
+  <!-- Name -->
+  <text x="80" y="145" font-family="'Courier New', Courier, monospace" font-size="52" font-weight="700" fill="#ffffff" letter-spacing="1">Patrick Shehata</text>
+
+  <!-- Role -->
+  <text x="80" y="205" font-family="'Courier New', Courier, monospace" font-size="26" fill="#58a6ff" font-weight="400" letter-spacing="0.5">Backend Engineer</text>
+
+  <!-- Tagline -->
+  <text x="80" y="253" font-family="'Courier New', Courier, monospace" font-size="18" fill="#8b949e" letter-spacing="0.3">Building scalable software systems.</text>
+
+  <!-- Divider line -->
+  <line x1="80" y1="286" x2="520" y2="286" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Tech stack row -->
+  <text x="80" y="320" font-family="'Courier New', Courier, monospace" font-size="15" fill="#58a6ff" letter-spacing="0.3">TypeScript</text>
+  <text x="194" y="320" font-family="'Courier New', Courier, monospace" font-size="15" fill="#30363d">•</text>
+  <text x="210" y="320" font-family="'Courier New', Courier, monospace" font-size="15" fill="#58a6ff">NestJS</text>
+  <text x="294" y="320" font-family="'Courier New', Courier, monospace" font-size="15" fill="#30363d">•</text>
+  <text x="310" y="320" font-family="'Courier New', Courier, monospace" font-size="15" fill="#58a6ff">PostgreSQL</text>
+  <text x="432" y="320" font-family="'Courier New', Courier, monospace" font-size="15" fill="#30363d">•</text>
+  <text x="448" y="320" font-family="'Courier New', Courier, monospace" font-size="15" fill="#58a6ff">Docker</text>
+  <text x="522" y="320" font-family="'Courier New', Courier, monospace" font-size="15" fill="#30363d">•</text>
+  <text x="538" y="320" font-family="'Courier New', Courier, monospace" font-size="15" fill="#58a6ff">AWS</text>
+
+  <!-- Right side: subtle architecture/circuit diagram pattern (occupies ~25% width → x 1200 to 1580) -->
+  <g opacity="0.18" stroke="#58a6ff" stroke-width="1" fill="none">
+
+    <!-- Horizontal rails -->
+    <line x1="1220" y1="80"  x2="1560" y2="80"/>
+    <line x1="1220" y1="200" x2="1560" y2="200"/>
+    <line x1="1220" y1="320" x2="1560" y2="320"/>
+
+    <!-- Vertical connectors -->
+    <line x1="1260" y1="80"  x2="1260" y2="200"/>
+    <line x1="1340" y1="200" x2="1340" y2="320"/>
+    <line x1="1440" y1="80"  x2="1440" y2="200"/>
+    <line x1="1520" y1="200" x2="1520" y2="320"/>
+    <line x1="1380" y1="80"  x2="1380" y2="320"/>
+
+    <!-- Cross branches -->
+    <line x1="1260" y1="140" x2="1340" y2="140"/>
+    <line x1="1380" y1="140" x2="1440" y2="140"/>
+    <line x1="1340" y1="260" x2="1440" y2="260"/>
+    <line x1="1440" y1="260" x2="1520" y2="260"/>
+    <line x1="1260" y1="260" x2="1340" y2="260"/>
+
+    <!-- Diagonal signal traces -->
+    <line x1="1260" y1="200" x2="1340" y2="320"/>
+    <line x1="1440" y1="200" x2="1520" y2="320"/>
+    <line x1="1340" y1="80"  x2="1440" y2="200"/>
+    <line x1="1260" y1="80"  x2="1380" y2="200"/>
+
+    <!-- Nodes (small squares = registers/buffers) -->
+    <rect x="1253" y="73"  width="14" height="14" rx="2"/>
+    <rect x="1373" y="73"  width="14" height="14" rx="2"/>
+    <rect x="1433" y="73"  width="14" height="14" rx="2"/>
+    <rect x="1513" y="73"  width="14" height="14" rx="2"/>
+
+    <rect x="1253" y="193" width="14" height="14" rx="2"/>
+    <rect x="1333" y="193" width="14" height="14" rx="2"/>
+    <rect x="1433" y="193" width="14" height="14" rx="2"/>
+    <rect x="1513" y="193" width="14" height="14" rx="2"/>
+
+    <rect x="1253" y="313" width="14" height="14" rx="2"/>
+    <rect x="1333" y="313" width="14" height="14" rx="2"/>
+    <rect x="1433" y="313" width="14" height="14" rx="2"/>
+    <rect x="1513" y="313" width="14" height="14" rx="2"/>
+
+    <!-- Mid-point junction dots -->
+    <rect x="1373" y="133" width="14" height="14" rx="2"/>
+    <rect x="1253" y="253" width="14" height="14" rx="2"/>
+    <rect x="1373" y="253" width="14" height="14" rx="2"/>
+
+    <!-- Small labeled boxes (service nodes) -->
+    <rect x="1220" y="100" width="60" height="24" rx="3"/>
+    <rect x="1220" y="220" width="60" height="24" rx="3"/>
+    <rect x="1480" y="100" width="60" height="24" rx="3"/>
+    <rect x="1480" y="220" width="60" height="24" rx="3"/>
+    <rect x="1350" y="160" width="60" height="24" rx="3"/>
+
+    <!-- Tiny tick marks on rails -->
+    <line x1="1300" y1="75"  x2="1300" y2="85"/>
+    <line x1="1460" y1="75"  x2="1460" y2="85"/>
+    <line x1="1300" y1="195" x2="1300" y2="205"/>
+    <line x1="1460" y1="195" x2="1460" y2="205"/>
+    <line x1="1300" y1="315" x2="1300" y2="325"/>
+    <line x1="1460" y1="315" x2="1460" y2="325"/>
+
+    <!-- Outer frame hairline -->
+    <rect x="1210" y="60" width="360" height="280" rx="4"/>
+  </g>
+
+  <!-- Subtle prompt indicator bottom-left -->
+  <text x="80" y="370" font-family="'Courier New', Courier, monospace" font-size="13" fill="#30363d">patrick@rekozzz ~ %</text>
+</svg>
