@@ -172,7 +172,7 @@ C++ • OpenGL • GLUT
 # 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=rekozzz&theme=github-dark-blue&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rekozzz&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
