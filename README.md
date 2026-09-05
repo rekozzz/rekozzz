@@ -177,13 +177,7 @@ C++ • OpenGL • GLUT
 
 ---
 
-# 📊 Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rekozzz&theme=github-dark&hide_border=true&area=true" />
-</p>
-
----
 
 # 📫 Connect
 
