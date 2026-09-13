@@ -79,7 +79,7 @@ I'm currently studying and building projects around:
 
 ## 🏥 Laboratory Quality Management System
 
-<a href="https://github.com/garma-a/QC_project">
+<a href="https://github.com/rekozzz/quality-control-management-system">
 <img src="./assets/projects/QC.png" width="100%">
 </a>
 
