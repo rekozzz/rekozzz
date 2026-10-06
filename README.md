@@ -53,6 +53,12 @@ I'm currently studying and building projects around:
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express"/>
 </p>
 
+### Messaging
+
+<p>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+</p>
+
 ### Database & ORM
 
 <p>
@@ -83,7 +89,7 @@ I'm currently studying and building projects around:
 <img src="./assets/projects/QC.png" width="100%">
 </a>
 
-Backend platform developed for the **Magdi Yacoub Heart Foundation** to centralize laboratory quality control data, preserve historical records, provide real-time laboratory monitoring, and streamline quality assurance workflows.
+Backend platform developed for the **Magdi Yacoub Heart Foundation** to centralize laboratory quality control data, preserve historical records, provide real-time laboratory monitoring, and stream[...]
 
 ### Highlights
 
